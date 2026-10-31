@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['Landslide', 'Road_Blockage', 'Rock']
+
+roboflow:
+  workspace: fakhaars-workspace
+  project: skardu_road_hazards
+  version: 1
+  license: Private
+  url: https://app.roboflow.com/fakhaars-workspace/skardu_road_hazards/1

@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+streamlit
+ultralytics
+opencv-python-headless
+numpy
+pillow
+requests
+python-multipart
